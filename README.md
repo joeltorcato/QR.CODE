@@ -1,4 +1,5 @@
-# QR.CODE ![heart](https://github.com/joeltorcato/QR.CODE/assets/154090684/674863f0-d22f-42c9-8cdf-527c4c5fb901)
+# QR.CODE ![qr-code](https://github.com/joeltorcato/QR.CODE/assets/154090684/7c88e1d2-aa39-4184-a0af-ea9966336c8c)
+
 
 
 
