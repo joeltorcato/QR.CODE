@@ -20,7 +20,8 @@
 * HTML
 * CSS
 
-# HOW TO RUN THE APPLICATION ![running-shoes](https://github.com/joeltorcato/QR.CODE/assets/154090684/a047ab2a-3eed-4c7d-a379-55ec96132588)
+## HOW TO RUN THE APPLICATION ![running-shoes](https://github.com/joeltorcato/QR.CODE/assets/154090684/98875d53-d4d7-4d1e-8c06-8668d25ce3d7)
+
 
 
 1. OPEN INDEX.HTML ON THE WEB.
