@@ -20,7 +20,8 @@
 * HTML
 * CSS
 
-## HOW TO RUN THE APPLICATION ![running-shoes](https://github.com/joeltorcato/QR.CODE/assets/154090684/98875d53-d4d7-4d1e-8c06-8668d25ce3d7)
+## HOW TO RUN THE APPLICATION ![running-shoes](https://github.com/joeltorcato/QR.CODE/assets/154090684/641f5834-a747-4fdf-9a3f-71264f0ff866)
+
 
 
 
